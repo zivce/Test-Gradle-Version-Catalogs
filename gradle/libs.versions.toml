@@ -2,7 +2,7 @@
 detekt = "1.17.0"
 kotest = "4.6.0"
 mockito = "3.10.0"
-publish-on-central = "0.5.0"
+publish-on-central = "1.0.2"
 
 [libraries]
 detekt-formatting = { module = "io.gitlab.arturbosch.detekt:detekt-formatting", version.ref = "detekt" }
